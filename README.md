@@ -11,8 +11,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+After a successfull run, The script with give you with the following output
+[![N|Solid](Screenshot from 2022-01-15 21-40-24.png)]
 
 ### `npm test`
 
