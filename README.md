@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 After a successfull run, The script with give you with the following output
-[![N|Solid](Screenshot from 2022-01-15 21-40-24.png)]
+![Active dashboard](Screenshot from 2022-01-15 21-40-24.png)
 
 ### `npm test`
 
